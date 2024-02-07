@@ -3,7 +3,7 @@
 A landing page that dynamically builds its navigation bar depending on the number of content sections.
 
 ## Features
-* ![](https://i.imgur.com/QG93H6R.gif)
+![](https://i.imgur.com/QG93H6R.gif)
 * Responsive ui
 * ![](https://i.imgur.com/2Zexv5g.gif)
 * Click on the section name to automatically scroll to it.
